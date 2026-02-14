@@ -15,7 +15,7 @@ import java.util.Scanner;
             int opcion;
 
             do {
-                System.out.println("\n===== MENÚ SISTEMAS 1 =====");
+                System.out.println("\n===== MENÚ =====");
                 System.out.println("1. Agregar estudiante");
                 System.out.println("2. Mostrar estudiantes");
                 System.out.println("3. Promedio de notas");
