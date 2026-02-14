@@ -7,9 +7,9 @@ import java.util.Scanner;
         static Scanner sc = new Scanner(System.in);
 
         // Atributos
-         String[] estudiantes = new String[10];
-         double[] notas = new double[10];
-         int contador = 0;
+        static String[] estudiantes = new String[10];
+        static double[] notas = new double[10];
+        static int contador = 0;
 
         public static void main(String[] args) {
             int opcion;
